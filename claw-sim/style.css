@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  font-family: sans-serif;
+}
+
+#ui {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+button {
+  font-size: 20px;
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+}
